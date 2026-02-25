@@ -1,2 +1,2 @@
-# web-dev-kickstarter-project
-Project created during Code First Girls Web Dev Kickstarter Course
+# CFG-Tutoring-Website
+A tutoring website for coding! 
