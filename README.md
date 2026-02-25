@@ -1,2 +1,2 @@
 # CFG-Tutoring-Website
-A tutoring website for coding! 
+A website created for a coding tutoring business, enabling users to register their interest in classes!
