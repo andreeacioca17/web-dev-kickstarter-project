@@ -6,3 +6,21 @@ A website created for a coding tutoring business, enabling users to register the
 </p>
 
 <p align="center">_______________</p>
+
+<p align="center">
+  <img src="main page_2.png" width=60%>
+</p>
+
+<p align="center">_______________</p>
+
+<p align="center">
+  <img src="mainpage_3.png" width=60%>
+</p>
+
+<p align="center">_______________</p>
+
+<p align="center">
+  <img src="second page.png" width=60%>
+</p>
+
+<p align="center">_______________</p>
